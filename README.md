@@ -21,9 +21,3 @@ This repository is dedicated to implementing core data structures from scratch u
  **LinkedList** | `addFirst`, `addLast`, `remove`, `search` | [🔗 View Code](./LinkedList.java) |
  **Stack** | `push`, `pop`, `peek`, `isEmpty` |   [🔗 View Code](./Stack.java)    |
  **Queue** | `enqueue`, `dequeue`, `peek` |   [🔗 View Code](./Queue.java)    |
-
----
-## How to Use
-1. Clone the repository: `git clone https://github.com/YOUR_USERNAME/REPO_NAME.git`
-2. Navigate to the specific `.java` file in your IDE.
-3. Check the internal comments for detailed logic explanations.
