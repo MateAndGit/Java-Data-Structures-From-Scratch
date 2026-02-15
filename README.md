@@ -6,5 +6,5 @@ A personal project dedicated to implementing core data structures from the groun
 
 ### 1. Linear Data Structures
 - [x] [**MyArrayList**](./src/linear/arraylist/MyArrayList.java)
-- [x] [**MyStringBuilder**](./src/linear/stringbuilder/MyStringBuilder.java)
-- [x] [**MySinglyLinkedList**](./src/linear/linkedlist/singley/MySinglyLinkedList.java)
+- [x] [**MySinglyLinkedList**](./src/linear/linkedlist/singley/SinglyLinkedList.java)
+- [x] [**MyDoublyLinkedList**](./src/linear/linkedlist/doubly/DoublyLinkedList.java)
